@@ -1,0 +1,124 @@
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.pdfa.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xtra.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xml
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.invoice.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Payment.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.SearchInvoice.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.application
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.InvoiceSnow.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.EmailLawn.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.EmailLawn.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.invoice.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.InvoiceSnow.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.NewCustomer.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.Payment.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.SearchInvoice.resources
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\itextsharp.dll
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\itextsharp.xtra.dll
+C:\Users\Steve\Desktop\Invoice\Invoice\bin\Debug\itextsharp.xml
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.application
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Steve\Desktop\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.NewCustomer.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Bid.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\itextsharp.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\itextsharp.pdfa.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\itextsharp.xtra.dll
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\bin\Debug\itextsharp.xml
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.Bid.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.EmailLawn.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.invoice.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.InvoiceSnow.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.NewCustomer.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.Payment.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.SearchInvoice.resources
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff backup\Invoice\Invoice\obj\Debug\Invoice.application
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Contract.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.pdb
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Bid.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Contract.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.EmailLawn.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.invoice.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.InvoiceSnow.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.NewCustomer.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Payment.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.SearchInvoice.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.dll
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xtra.dll
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xml
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.application
+C:\Users\stevens\Downloads\Mystuff\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.ContractPage2.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.config
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.pdb
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.application
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.exe
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\Invoice.pdb
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.dll
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.pdfa.dll
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xtra.dll
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\bin\Debug\itextsharp.xml
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Bid.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Contract.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.ContractPage2.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.EmailLawn.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.invoice.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.InvoiceSnow.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Login.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.NewCustomer.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Payment.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.SearchInvoice.resources
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.Cache
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
+F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.application
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.ContractPage2.resources
+C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
