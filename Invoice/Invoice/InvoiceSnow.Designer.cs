@@ -1086,7 +1086,7 @@
             this.todaysdateTimePicker.Name = "todaysdateTimePicker";
             this.todaysdateTimePicker.Size = new System.Drawing.Size(200, 20);
             this.todaysdateTimePicker.TabIndex = 125;
-            this.todaysdateTimePicker.Value = new System.DateTime(2015, 9, 1, 0, 0, 0, 0);
+            this.todaysdateTimePicker.Value = new System.DateTime(2016, 4, 1, 0, 0, 0, 0);
             this.todaysdateTimePicker.Visible = false;
             this.todaysdateTimePicker.ValueChanged += new System.EventHandler(this.todaysdateTimePicker_ValueChanged);
             // 

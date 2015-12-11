@@ -122,3 +122,6 @@ F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.exe.manifest
 F:\Invoice Snow\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.application
 C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.ContractPage2.resources
 C:\Users\Steve\Desktop\Inovice stuff\Invoice\Invoice\obj\Debug\Invoice.csprojResolveAssemblyReference.cache
+C:\Programs\SpencersInvoice\Dev\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Programs\SpencersInvoice\Dev\Invoice\Invoice\obj\Debug\Invoice.exe
+C:\Programs\SpencersInvoice\Dev\Invoice\Invoice\obj\Debug\Invoice.pdb
